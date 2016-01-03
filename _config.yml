@@ -1,0 +1,28 @@
+name: PZ
+favicon: null
+layout_spectrum: 0.9743974299635738
+typography_spectrum: 0.30430639325641096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8557815144304186
+  lightness: 0.6417968068271875
+  saturation: 0.5698442293796688
+  rhythmicContrast: 0.8557160950731486
+purpose: []
